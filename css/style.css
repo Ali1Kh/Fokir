@@ -10,7 +10,7 @@
 }
 
 .container {
-  width: 60%;
+  width: 75%;
   margin: auto;
 }
 
@@ -736,7 +736,7 @@
   font-size: 14px;
   font-weight: 400;
   line-height: 20px;
-  /* resize: none; */
+   resize: vertical;
 }
 
 .contact .contactInputs .inputContainer .innerInput input:focus,
